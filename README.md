@@ -27,6 +27,17 @@
   <a href="https://www.pucminas.br/">PUC Minas</a>.</i>
 </p>
 
+----- 
+
+<div align="justify">
+  <p>Meu nome é <b>Fillipe Gabriel</b>. Nasci em Ipatinga, mas atualmente moro em Belo Horizonte e curso <b>Engenharia de Software</b> na <b>PUC Minas do Coreu</b>.</p>
+  
+  <p>Fiz praticamente todos os meus anos escolares no <b>Colégio Tiradentes da Polícia Militar</b>.</p>
+  
+  <p>Falo inglês fluentemente e já morei nos <b>Estados Unidos por 1 ano</b>, onde fiz o ensino médio na <b>Cape Coral Highschool</b>, aprimorando minhas habilidades no idioma.</p>
+</div>
+
+
 
 
 
