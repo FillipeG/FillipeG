@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bannerGITHUB.png" alt="bannerGitHub" width="4000">
+  <img src="bannerGIT2.png" alt="bannerGIT2.png" width="4000">
 </p>
 
 ----- 
@@ -58,6 +58,16 @@
   
   <p>Falo inglês fluentemente e já morei nos <b>Estados Unidos por 1 ano</b>, onde fiz o ensino médio na <b>Cape Coral Highschool</b>, aprimorando minhas habilidades no idioma.</p>
 </div>
+
+----- 
+
+<p align="center">
+  <img src="github-header-banner.png" alt="github-header-banner.png" width="4000">
+</p>
+
+
+
+
 
 
 
