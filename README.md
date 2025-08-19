@@ -75,10 +75,7 @@
 
 ----- 
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=9t2vdq1g1062cggkfkmncgawb&cover_image=true&theme=default)](https://open.spotify.com/user/9t2vdq1g1062cggkfkmncgawb)
 
-
------ 
 
 
 
