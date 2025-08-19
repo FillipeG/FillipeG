@@ -12,7 +12,7 @@
     <img src="https://github.com/FillipeG/FillipeG/raw/main/gmailICONE.png" width="50" height="50" style="object-fit: contain;" alt="Gmail">
   </a>
   <a href="https://wa.me/5531972544985">
-    <img src="https://github.com/FillipeG/FillipeG/raw/main/zapBANNER.png" width="60" height="50" style="object-fit: contain;" alt="WhatsApp">
+    <img src="https://github.com/FillipeG/FillipeG/raw/main/zapzapICONE.png" width="50" height="50" style="object-fit: contain;" alt="WhatsApp">
   </a>
   <a href="https://www.instagram.com/fillipeeg/">
     <img src="https://github.com/FillipeG/FillipeG/raw/main/instagramICONEE.png" width="50" height="50" style="object-fit: contain;" alt="Instagram">
