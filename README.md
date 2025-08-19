@@ -15,7 +15,7 @@
     <img src="https://github.com/FillipeG/FillipeG/raw/main/zapBANNER.png" width="60" height="50" style="object-fit: contain;" alt="WhatsApp">
   </a>
   <a href="https://www.instagram.com/fillipeeg/">
-    <img src="https://github.com/FillipeG/FillipeG/raw/main/instagramICONEE.webp" width="50" height="50" style="object-fit: contain;" alt="Instagram">
+    <img src="https://github.com/FillipeG/FillipeG/raw/main/instagramICONEE.png" width="50" height="50" style="object-fit: contain;" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/fillipe-gabriel-0477bb379">
     <img src="https://github.com/FillipeG/FillipeG/raw/main/linkedinICONE.webp" width="50" height="50" style="object-fit: contain;" alt="LinkedIn">
