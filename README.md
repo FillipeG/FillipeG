@@ -65,6 +65,16 @@
   <img src="github-header-banner.png" alt="github-header-banner.png" width="4000">
 </p>
 
+----- 
+
+![WakaTime Badge](https://github-readme-stats.vercel.app/api/wakatime?username=FillipeGCA&theme=dark)
+
+----- 
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=FillipeGCA&layout=compact&theme=dark)
+
+
+
 
 
 
