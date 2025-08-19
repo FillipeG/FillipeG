@@ -75,7 +75,8 @@
 
 ----- 
 
-[![Spotify](https://spotify-readme.now.sh/api/spotify?user=9t2vdq1g1062cggkfkmncgawb)](https://open.spotify.com/user/9t2vdq1g1062cggkfkmncgawb)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=9t2vdq1g1062cggkfkmncgawb&cover_image=true&theme=default)](https://open.spotify.com/user/9t2vdq1g1062cggkfkmncgawb)
+
 
 ----- 
 
