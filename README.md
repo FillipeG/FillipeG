@@ -73,6 +73,14 @@
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=FillipeGCA&layout=compact&theme=dark)
 
+----- 
+
+[![Spotify](https://spotify-readme.now.sh/api/spotify?user=9t2vdq1g1062cggkfkmncgawb)](https://open.spotify.com/user/9t2vdq1g1062cggkfkmncgawb)
+
+----- 
+
+
+
 
 
 
