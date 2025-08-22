@@ -79,12 +79,13 @@
 
 ### 💻 Hard Skills
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=for-the-badge)
+![Banco de Dados](https://img.shields.io/badge/-Database-006400?logo=postgresql&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-000000?style=for-the-badge)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipseide&logoColor=white&style=for-the-badge)
-
 ![Orientação a Objetos](https://img.shields.io/badge/-OOP-FF6F00?style=for-the-badge)
 ![Inglês](https://img.shields.io/badge/-English-007ACC?logo=googletranslate&logoColor=white&style=for-the-badge)
 
@@ -94,7 +95,8 @@
 - Respeito 🙌  
 - Organização 📂  
 - Resolução de problemas 🧩  
-- Adaptabilidade 🔄
+- Adaptabilidade 🔄  
+
 
 -----
 
