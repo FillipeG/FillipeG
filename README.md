@@ -73,6 +73,22 @@ Idiomas:
 
 ----- 
 
+## 🚀 Projetos
+
+### 🖥️ Projeto Extensionista de Introdução à Computação
+- Lecionei programação básica para alunos do 9º ano.
+- Ensinei variáveis, tipos de dados e funções.
+- Experiência em comunicação de conceitos técnicos para iniciantes.
+
+### 🌊 MoveWave
+- Desenvolvimento de site para prevenção de enchentes em BH.
+- Funcionalidades: alertas, rotas alternativas, avisos emergenciais e dicas de prevenção.
+- Experiência em desenvolvimento web com foco em impacto social.
+
+> 🔜 Novos projetos serão adicionados em breve!
+
+-----
+
 ![WakaTime Badge](https://github-readme-stats.vercel.app/api/wakatime?username=FillipeGCA&theme=dark)
 
 
