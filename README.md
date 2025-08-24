@@ -61,6 +61,12 @@
 
 ----- 
 
+Idiomas:
+- Português (nativo)
+- Inglês (fluente)
+
+----- 
+
 <p align="center">
   <img src="github-header-banner.png" alt="github-header-banner.png" width="4000">
 </p>
