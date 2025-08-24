@@ -98,10 +98,6 @@ Idiomas:
 
 -----
 
-![WakaTime Badge](https://github-readme-stats.vercel.app/api/wakatime?username=FillipeGCA&theme=dark)
-
-
-
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=FillipeGCA&layout=compact&theme=dark)
 
 ----- 
