@@ -94,6 +94,8 @@ Idiomas:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FillipeG&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FillipeG&layout=compact&theme=github_dark)
+![Top Langs Pie](https://github-readme-stats.vercel.app/api/top-langs/?username=FillipeG&layout=pie&theme=github_dark)
+
 
 -----
 
