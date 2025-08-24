@@ -89,6 +89,14 @@ Idiomas:
 
 -----
 
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FillipeG&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FillipeG&layout=compact&theme=github_dark)
+
+-----
+
 ![WakaTime Badge](https://github-readme-stats.vercel.app/api/wakatime?username=FillipeGCA&theme=dark)
 
 
