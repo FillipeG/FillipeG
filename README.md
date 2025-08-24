@@ -116,6 +116,8 @@ Idiomas:
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipseide&logoColor=white&style=for-the-badge)
 ![Orientação a Objetos](https://img.shields.io/badge/-OOP-FF6F00?style=for-the-badge)
 ![Inglês](https://img.shields.io/badge/-English-007ACC?logo=googletranslate&logoColor=white&style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 
 ### 🤝 Soft Skills
 - Comunicativo 🗣️  
