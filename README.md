@@ -92,7 +92,7 @@ Idiomas:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FillipeG&show_icons=true&theme=github_dark&card_width=800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FillipeG&show_icons=true&theme=github_dark&card)
 
 ![Top Langs Pie](https://github-readme-stats.vercel.app/api/top-langs/?username=FillipeG&layout=pie&theme=github_dark&card)
 
