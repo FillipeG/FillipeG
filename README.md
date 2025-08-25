@@ -4,31 +4,28 @@
 
 ----- 
 
-<p align="center" style="display:flex; justify-content:center; align-items:center; gap:10px;">
-  <a href="https://github.com/FillipeG">
+<p align="center" style="display:flex; justify-content:center; align-items:center; gap:0;">
+  <a href="https://github.com/FillipeG" style="display:flex; align-items:center; justify-content:center; width:60px; height:60px; border-right:2px solid gray;">
     <img src="https://github.com/FillipeG/FillipeG/raw/main/githubICONE.png" width="50" height="50" alt="GitHub">
   </a>
-  <span style="width:2px; height:50px; background-color:gray; display:inline-block;"></span>
-  
-  <a href="mailto:fillipegabriel00@gmail.com">
+
+  <a href="mailto:fillipegabriel00@gmail.com" style="display:flex; align-items:center; justify-content:center; width:60px; height:60px; border-right:2px solid gray;">
     <img src="https://github.com/FillipeG/FillipeG/raw/main/gmailICONE.png" width="50" height="50" alt="Gmail">
   </a>
-  <span style="width:2px; height:50px; background-color:gray; display:inline-block;"></span>
-  
-  <a href="https://wa.me/5531972544985">
+
+  <a href="https://wa.me/5531972544985" style="display:flex; align-items:center; justify-content:center; width:60px; height:60px; border-right:2px solid gray;">
     <img src="https://github.com/FillipeG/FillipeG/raw/main/zapzapICONE.png" width="50" height="50" alt="WhatsApp">
   </a>
-  <span style="width:2px; height:50px; background-color:gray; display:inline-block;"></span>
-  
-  <a href="https://www.instagram.com/fillipeeg/">
+
+  <a href="https://www.instagram.com/fillipeeg/" style="display:flex; align-items:center; justify-content:center; width:60px; height:60px; border-right:2px solid gray;">
     <img src="https://github.com/FillipeG/FillipeG/raw/main/instagramICONEE.png" width="50" height="50" alt="Instagram">
   </a>
-  <span style="width:2px; height:50px; background-color:gray; display:inline-block;"></span>
-  
-  <a href="https://www.linkedin.com/in/fillipe-gabriel-0477bb379">
+
+  <a href="https://www.linkedin.com/in/fillipe-gabriel-0477bb379" style="display:flex; align-items:center; justify-content:center; width:60px; height:60px;">
     <img src="https://github.com/FillipeG/FillipeG/raw/main/linkedinICONE.webp" width="50" height="50" alt="LinkedIn">
   </a>
 </p>
+
 
 ----- 
 
