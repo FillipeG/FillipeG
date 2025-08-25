@@ -4,48 +4,31 @@
 
 ----- 
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/FillipeG">
-        <img src="https://github.com/FillipeG/FillipeG/raw/main/githubICONE.png" width="50" height="50" alt="GitHub">
-      </a>
-    </td>
-    <td>
-      <div style="width:2px; height:50px; background-color:gray;"></div>
-    </td>
-    <td align="center">
-      <a href="mailto:fillipegabriel00@gmail.com">
-        <img src="https://github.com/FillipeG/FillipeG/raw/main/gmailICONE.png" width="50" height="50" alt="Gmail">
-      </a>
-    </td>
-    <td>
-      <div style="width:2px; height:50px; background-color:gray;"></div>
-    </td>
-    <td align="center">
-      <a href="https://wa.me/5531972544985">
-        <img src="https://github.com/FillipeG/FillipeG/raw/main/zapzapICONE.png" width="50" height="50" alt="WhatsApp">
-      </a>
-    </td>
-    <td>
-      <div style="width:2px; height:50px; background-color:gray;"></div>
-    </td>
-    <td align="center">
-      <a href="https://www.instagram.com/fillipeeg/">
-        <img src="https://github.com/FillipeG/FillipeG/raw/main/instagramICONEE.png" width="50" height="50" alt="Instagram">
-      </a>
-    </td>
-    <td>
-      <div style="width:2px; height:50px; background-color:gray;"></div>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/fillipe-gabriel-0477bb379">
-        <img src="https://github.com/FillipeG/FillipeG/raw/main/linkedinICONE.webp" width="50" height="50" alt="LinkedIn">
-      </a>
-    </td>
-  </tr>
-</table>
-
+<p align="center" style="display:flex; justify-content:center; align-items:center; gap:10px;">
+  <a href="https://github.com/FillipeG">
+    <img src="https://github.com/FillipeG/FillipeG/raw/main/githubICONE.png" width="50" height="50" alt="GitHub">
+  </a>
+  <span style="width:2px; height:50px; background-color:gray; display:inline-block;"></span>
+  
+  <a href="mailto:fillipegabriel00@gmail.com">
+    <img src="https://github.com/FillipeG/FillipeG/raw/main/gmailICONE.png" width="50" height="50" alt="Gmail">
+  </a>
+  <span style="width:2px; height:50px; background-color:gray; display:inline-block;"></span>
+  
+  <a href="https://wa.me/5531972544985">
+    <img src="https://github.com/FillipeG/FillipeG/raw/main/zapzapICONE.png" width="50" height="50" alt="WhatsApp">
+  </a>
+  <span style="width:2px; height:50px; background-color:gray; display:inline-block;"></span>
+  
+  <a href="https://www.instagram.com/fillipeeg/">
+    <img src="https://github.com/FillipeG/FillipeG/raw/main/instagramICONEE.png" width="50" height="50" alt="Instagram">
+  </a>
+  <span style="width:2px; height:50px; background-color:gray; display:inline-block;"></span>
+  
+  <a href="https://www.linkedin.com/in/fillipe-gabriel-0477bb379">
+    <img src="https://github.com/FillipeG/FillipeG/raw/main/linkedinICONE.webp" width="50" height="50" alt="LinkedIn">
+  </a>
+</p>
 
 ----- 
 
