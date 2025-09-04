@@ -41,9 +41,16 @@ Idiomas:
 - Experiência em comunicação de conceitos técnicos para iniciantes.
 
 ### 🌊 MoveWave
+
 - Desenvolvimento de site para prevenção de enchentes em BH.
 - Funcionalidades: alertas, rotas alternativas, avisos emergenciais e dicas de prevenção.
 - Experiência em desenvolvimento web com foco em impacto social.
+
+![Página Inicial](./homepage1.png)
+![Mapa de Alertas](./mapa.png)
+
+🔗 [Acessar o repositório do MoveWave](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-mobitech-urban.git)
+
 
 > 🔜 Novos projetos serão adicionados em breve!
 
