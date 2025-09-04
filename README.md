@@ -42,18 +42,16 @@ Idiomas:
 
 ### 🌊 MoveWave
 
-### 🌊 MoveWave
-
 - Desenvolvimento de site para prevenção de enchentes em BH.
 - Funcionalidades: alertas, rotas alternativas, avisos emergenciais e dicas de prevenção.
 - Experiência em desenvolvimento web com foco em impacto social.
 
-<img src="./homepage1.png" alt="Página Inicial" width="400"/>
-<img src="./mapa.png" alt="Mapa de Alertas" width="400"/>
+<div style="display: flex; gap: 10px;">
+  <img src="./homepage1.png" alt="Página Inicial" width="400"/>
+  <img src="./mapa.png" alt="Mapa de Alertas" width="400"/>
+</div>
 
 🔗 [Acessar o repositório do MoveWave](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-mobitech-urban.git)
-
-
 
 > 🔜 Novos projetos serão adicionados em breve!
 
