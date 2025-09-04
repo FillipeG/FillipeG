@@ -53,10 +53,19 @@ Idiomas:
 
 🔗 [Acessar o repositório do MoveWave](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-mobitech-urban.git)
 
+### ❤️ CanDonate *(Em desenvolvimento)*
+- Sistema de doação para facilitar contribuições.
+- Funcionalidades previstas: cadastro de doadores, cadastro de doações, sistema de avaliação e cadastro de beneficiários.
+- Experiência em desenvolvimento de sistemas com foco social.
+
+### 👔 RH Master *(Em desenvolvimento)*
+- Sistema de gerenciamento de funcionários.
+- Funcionalidades previstas: controle de funcionários, folhas de pagamento e relatórios.
+- Experiência em desenvolvimento de sistemas corporativos.
+
 > 🔜 Novos projetos serão adicionados em breve!
 
 -----
-
 
 ## 📊 GitHub Stats
 
