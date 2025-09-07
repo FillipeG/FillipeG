@@ -35,11 +35,6 @@ Idiomas:
 
 ## 🚀 Projetos
 
-### 🖥️ Projeto Extensionista de Introdução à Computação
-- Lecionei programação básica para alunos do 9º ano.
-- Ensinei variáveis, tipos de dados.
-- Experiência em comunicação de conceitos técnicos para iniciantes.
-
 ### 🌊 MoveWave
 
 - Desenvolvimento de site para prevenção de enchentes em BH.
