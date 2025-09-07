@@ -84,35 +84,28 @@ Idiomas:
 ### 💻 Hard Skills
 <p align="left">
   <!-- Linguagens -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+  <img src="https://junit.org/junit5/assets/img/junit5-logo.png" height="40" alt="JUnit"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Code::Blocks_logo.svg" height="40" alt="Code::Blocks"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
 
-  <!-- Testes e Banco de Dados -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo"/> <!-- Banco de Dados -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/junit.svg" height="40" alt="JUnit logo"/> <!-- JUnit -->
-
-  <!-- Ferramentas e Controle de Versão -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeblocks/codeblocks-original.svg" height="40" alt="Code::Blocks logo"/>
-
-  <!-- Design e Modelagem -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/uml.svg" height="40" alt="StarUML logo"/> <!-- substituto UML -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/workflow.svg" height="40" alt="Heflo logo"/> <!-- substituto workflow -->
-
-  <!-- Outros -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googletranslate.svg" height="40" alt="English logo"/> <!-- Inglês -->
-  <img src="https://img.shields.io/badge/MPN-FF4500?style=for-the-badge&logoColor=white" height="28" alt="MPN"/> <!-- sem logo oficial -->
-  <img src="https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&logoColor=white" height="28" alt="OOP"/> <!-- sem logo oficial -->
+  <!-- Retangulares para os que não têm logo -->
+  <img src="https://img.shields.io/badge/-MPN-FF4500?style=for-the-badge" height="28" alt="MPN"/>
+  <img src="https://img.shields.io/badge/-OOP-FF6F00?style=for-the-badge" height="28" alt="OOP"/>
+  <img src="https://img.shields.io/badge/-StarUML-1E90FF?style=for-the-badge" height="28" alt="StarUML"/>
+  <img src="https://img.shields.io/badge/-Heflo-FF1493?style=for-the-badge" height="28" alt="Heflo"/>
+  <img src="https://img.shields.io/badge/-English-007ACC?logo=googletranslate&logoColor=white&style=for-the-badge" height="28" alt="English"/>
 </p>
-
 
 ### 🤝 Soft Skills
 - Comunicativo 🗣️  
