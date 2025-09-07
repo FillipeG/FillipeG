@@ -102,12 +102,12 @@ Idiomas:
 </p>
 
 ### 🤝 Soft Skills
-- Comunicativo 🗣️  
-- Trabalho em equipe 👥  
-- Respeito 🙌  
-- Organização 📂  
-- Resolução de problemas 🧩  
-- Adaptabilidade 🔄  
+- Comunicativo   
+- Trabalho em equipe  
+- Respeito   
+- Organização   
+- Resolução de problemas   
+- Adaptabilidade 
 
 -----
 
