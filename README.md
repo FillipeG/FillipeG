@@ -96,10 +96,10 @@ Idiomas:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/CodeBlocks_logo.png" height="40" alt="Code::Blocks"/>
+  
+  <img src="https://img.shields.io/badge/-Code::Blocks-000000?style=for-the-badge" height="28" alt="Code::Blocks"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
-
-  <!-- Retangulares para os que não têm logo -->
+ 
   <img src="https://img.shields.io/badge/-MPN-FF4500?style=for-the-badge" height="28" alt="MPN"/>
   <img src="https://img.shields.io/badge/-OOP-FF6F00?style=for-the-badge" height="28" alt="OOP"/>
   <img src="https://img.shields.io/badge/-StarUML-1E90FF?style=for-the-badge" height="28" alt="StarUML"/>
