@@ -102,6 +102,7 @@ Idiomas:
 </p>
 
 ### 🤝 Soft Skills
+- Liderança
 - Comunicativo   
 - Trabalho em equipe  
 - Respeito   
