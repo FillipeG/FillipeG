@@ -45,6 +45,10 @@
   <p>Falo inglês fluentemente e já morei nos <b>Estados Unidos por 1 ano</b>, onde fiz o ensino médio na <b>Cape Coral Highschool</b>, aprimorando minhas habilidades no idioma.</p>
 </div>
 
+  <p>Tenho grande interesse em compreender a lógica por trás dos sistemas e em construir soluções eficientes, bem estruturadas e que realmente façam diferença.
+  Ao longo da minha trajetória, fui construindo um perfil marcado pela curiosidade e pelo desejo constante de evolução. Gosto de entender o “porquê” das coisas, de analisar problemas com calma e buscar soluções que façam sentido na prática. Tenho facilidade em aprender novas tecnologias, compreender conceitos complexos e me adaptar a diferentes situações. </p>
+</div>
+
 ----- 
 
 Idiomas:
