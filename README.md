@@ -123,7 +123,6 @@ Idiomas:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
  
-  <img src="https://img.shields.io/badge/-MPN-FF4500?style=for-the-badge" height="28" alt="MPN"/>
   <img src="https://img.shields.io/badge/-OOP-FF6F00?style=for-the-badge" height="28" alt="OOP"/>
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge" height="28" alt="SQL"/>
   <img src="https://img.shields.io/badge/-StarUML-1E90FF?style=for-the-badge" height="28" alt="StarUML"/>
