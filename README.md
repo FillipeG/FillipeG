@@ -83,6 +83,12 @@ Idiomas:
 - Funcionalidades previstas: cadastro de doadores, cadastro de doações, sistema de avaliação e cadastro de beneficiários.
 - Experiência em desenvolvimento de sistemas com foco social.
 
+<div style="display: flex; gap: 10px;">
+  <img src="./canDonateIMG.jpg" alt="Interface do CanDonate" height="250"/>
+</div>
+
+🔗 [Acessar o repositório do CanDonate](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti2-3687100-candonate)
+
 ### 👔 RH Master
 - Sistema de gerenciamento de funcionários.
 - Funcionalidades: controle de funcionários, folhas de pagamento, cálculo de impostos e relatórios.
