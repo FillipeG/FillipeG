@@ -83,12 +83,16 @@ Idiomas:
 - Funcionalidades previstas: cadastro de doadores, cadastro de doações, sistema de avaliação e cadastro de beneficiários.
 - Experiência em desenvolvimento de sistemas com foco social.
 
-### 👔 RH Master *(Em desenvolvimento)*
+### 👔 RH Master
 - Sistema de gerenciamento de funcionários.
-- Funcionalidades previstas: controle de funcionários, folhas de pagamento e relatórios.
-- Experiência em desenvolvimento de sistemas corporativos.
+- Funcionalidades: controle de funcionários, folhas de pagamento, cálculo de impostos e relatórios.
+- Experiência em desenvolvimento de sistemas corporativos com regras de negócio complexas.
 
-> 🔜 Novos projetos serão adicionados em breve!
+<div style="display: flex; gap: 10px;">
+  <img src="./rhmasterIMG.jpg" alt="Interface do RH Master" height="250"/>
+</div>
+
+🔗 [Acessar o repositório do RH Master](https://github.com/ICEI-PUC-Minas-EngSoft-PM/tp-rhsoft-rh-master)
 
 -----
 
