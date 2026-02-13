@@ -53,7 +53,7 @@
 
 Idiomas:
 - Português (nativo)
-- Inglês (fluente)
+- Inglês (avançado)
 
 ----- 
 
@@ -107,13 +107,14 @@ Idiomas:
 
 ### 💻 Hard Skills
 <p align="left">
-  <!-- Linguagens -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   
   <img src="https://junit.org/junit5/assets/img/junit5-logo.png" height="40" alt="JUnit"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
@@ -124,6 +125,7 @@ Idiomas:
  
   <img src="https://img.shields.io/badge/-MPN-FF4500?style=for-the-badge" height="28" alt="MPN"/>
   <img src="https://img.shields.io/badge/-OOP-FF6F00?style=for-the-badge" height="28" alt="OOP"/>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge" height="28" alt="SQL"/>
   <img src="https://img.shields.io/badge/-StarUML-1E90FF?style=for-the-badge" height="28" alt="StarUML"/>
   <img src="https://img.shields.io/badge/-Heflo-FF1493?style=for-the-badge" height="28" alt="Heflo"/>
   <img src="https://img.shields.io/badge/-English-007ACC?logo=googletranslate&logoColor=white&style=for-the-badge" height="28" alt="English"/>
