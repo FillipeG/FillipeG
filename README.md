@@ -78,7 +78,7 @@ Idiomas:
 
 🔗 [Acessar o repositório do MoveWave](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-mobitech-urban.git)
 
-### ❤️ CanDonate *(Em desenvolvimento)*
+### ❤️ CanDonate
 - Sistema de doação para facilitar contribuições.
 - Funcionalidades previstas: cadastro de doadores, cadastro de doações, sistema de avaliação e cadastro de beneficiários.
 - Experiência em desenvolvimento de sistemas com foco social.
