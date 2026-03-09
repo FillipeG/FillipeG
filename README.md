@@ -105,7 +105,7 @@ Idiomas:
 ## 📊 GitHub Stats
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=FillipeG&layout=donut&theme=github_dark)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=FillipeG&layout=donut&theme=github_dark)
 
 -----
 
