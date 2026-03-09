@@ -42,7 +42,7 @@
   
   <p>Fiz praticamente todos os meus anos escolares no <b>Colégio Tiradentes da Polícia Militar</b>.</p>
   
-  <p>Falo inglês fluentemente e já morei nos <b>Estados Unidos por 1 ano</b>, onde fiz o ensino médio na <b>Cape Coral Highschool</b>, aprimorando minhas habilidades no idioma.</p>
+  <p>Tenho Inglês de nível avançado e já morei nos <b>Estados Unidos por 1 ano</b>, onde fiz o ensino médio na <b>Cape Coral Highschool</b>, aprimorando minhas habilidades no idioma.</p>
 </div>
 
   <p>Tenho grande interesse em compreender a lógica por trás dos sistemas e em construir soluções eficientes, bem estruturadas e que realmente façam diferença.
