@@ -65,6 +65,17 @@ Idiomas:
 
 ## 🚀 Projetos
 
+### 🏗️ Amabilis Controle
+- Sistema de gestão desenvolvido para uma construtora.
+- Funcionalidades: cadastro de obras, lançamento de notas fiscais, mapa, dashboard, e cadastro de recursos e tarefas.
+- Experiência em desenvolvimento de sistemas corporativos completos com múltiplas regras de negócio e dashboards.
+
+<div style="display: flex; gap: 10px;">
+  <img src="./amabilisREADME.png" alt="Interface do Amabilis Controle" height="250"/>
+</div>
+
+🔗 [Acessar o repositório do Amabilis Controle](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2026-1-ti3-9577100-amabilis-controle.git)
+
 ### 🌊 MoveWave
 
 - Desenvolvimento de site para prevenção de enchentes em BH.
