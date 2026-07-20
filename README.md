@@ -40,7 +40,7 @@
 <div align="justify">
   <p>Meu nome é <b>Fillipe Gabriel</b>. Nasci em Ipatinga, mas atualmente moro em Belo Horizonte e curso <b>Engenharia de Software</b> na <b>PUC Minas do Coreu</b>.</p>
   
-  <p>Fiz praticamente todos os meus anos escolares no <b>Colégio Tiradentes da Polícia Militar</b>.</p>
+  <p>Possuo base técnica em desenvolvimento fullstack e tenho grande interesse por cyber security desde pequeno. Venho me aprofundando ativamente na área através de cursos, learning paths, labs e CTFs. Tenho o objetivo de atuar de maneira profissional na área, com foco em segurança de aplicações, unindo minha vivência como desenvolvedor à identificação e correção de vulnerabilidades.</b>.</p>
   
   <p>Tenho Inglês de nível avançado e já morei nos <b>Estados Unidos por 1 ano</b>, onde fiz o ensino médio na <b>Cape Coral Highschool</b>, aprimorando minhas habilidades no idioma.</p>
 </div>
