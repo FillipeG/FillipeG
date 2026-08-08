@@ -38,15 +38,14 @@
 <h2 align="center">Sobre mim:</h2>
 
 <div align="justify">
-  <p>Meu nome é <b>Fillipe Gabriel</b>. Nasci em Ipatinga, mas atualmente moro em Belo Horizonte e curso <b>Engenharia de Software</b> na <b>PUC Minas do Coreu</b>.</p>
+  <p>Olá! Me chamo Fillipe, sou estudante de Engenharia de Software na PUC Minas e possuo base técnica sólida em desenvolvimento fullstack. Já construí projetos reais como desenvolvedor, o que me deu entendimento prático de como aplicações são estruturadas e construídas de verdade.</b>.</p>
   
-  <p>Possuo base técnica em desenvolvimento fullstack e tenho grande interesse por cyber security desde pequeno. Venho me aprofundando ativamente na área através de cursos, learning paths, labs e CTFs. Tenho o objetivo de atuar de maneira profissional na área, com foco em segurança de aplicações, unindo minha vivência como desenvolvedor à identificação e correção de vulnerabilidades.</b>.</p>
+  <p>Tenho grande interesse por cyber security desde pequeno, e venho me aprofundando ativamente na área através de cursos, learning paths, labs práticos e CTFs, cobrindo desde fundamentos de segurança até desafios mais técnicos e aplicados.</b>.</p>
   
-  <p>Tenho Inglês de nível avançado e já morei nos <b>Estados Unidos por 1 ano</b>, onde fiz o ensino médio na <b>Cape Coral Highschool</b>, aprimorando minhas habilidades no idioma.</p>
+  <p>Acredito que ser um bom profissional de Segurança da Informação passa, antes de tudo, por ser um bom desenvolvedor, é preciso entender como o código é escrito e como as aplicações realmente funcionam para conseguir enxergar riscos e vulnerabilidades com profundidade. Por isso, sigo me dedicando também ao desenvolvimento fullstack, buscando evoluir constantemente como dev enquanto construo minha trajetória em segurança.</p>
 </div>
 
-  <p>Tenho grande interesse em compreender a lógica por trás dos sistemas e em construir soluções eficientes, bem estruturadas e que realmente façam diferença.
-  Ao longo da minha trajetória, fui construindo um perfil marcado pela curiosidade e pelo desejo constante de evolução. Gosto de entender o “porquê” das coisas, de analisar problemas com calma e buscar soluções que façam sentido na prática. Tenho facilidade em aprender novas tecnologias, compreender conceitos complexos e me adaptar a diferentes situações. </p>
+  <p>Tenho o objetivo de atuar de maneira profissional na área de Segurança da Informação, unindo minha vivência como desenvolvedor à capacidade de identificar e corrigir vulnerabilidades — com interesse particular em segurança de aplicações e SecOps, mas aberto a diferentes frentes da área.</p>
 </div>
 
 ----- 
