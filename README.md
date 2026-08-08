@@ -38,9 +38,9 @@
 <h2 align="center">Sobre mim:</h2>
 
 <div align="justify">
-  <p>Olá! Me chamo Fillipe, sou estudante de Engenharia de Software na PUC Minas e possuo base técnica sólida em desenvolvimento fullstack. Já construí projetos reais como desenvolvedor, o que me deu entendimento prático de como aplicações são estruturadas e construídas de verdade.</b>.</p>
+  <p>Olá! Me chamo Fillipe, sou estudante de Engenharia de Software na PUC Minas e possuo base técnica sólida em desenvolvimento fullstack. Já construí projetos reais como desenvolvedor, o que me deu entendimento prático de como aplicações são estruturadas e construídas de verdade</b>.</p>
   
-  <p>Tenho grande interesse por cyber security desde pequeno, e venho me aprofundando ativamente na área através de cursos, learning paths, labs práticos e CTFs, cobrindo desde fundamentos de segurança até desafios mais técnicos e aplicados.</b>.</p>
+  <p>Tenho grande interesse por cyber security desde pequeno, e venho me aprofundando ativamente na área através de cursos, learning paths, labs práticos e CTFs, cobrindo desde fundamentos de segurança até desafios mais técnicos e aplicados</b>.</p>
   
   <p>Acredito que ser um bom profissional de Segurança da Informação passa, antes de tudo, por ser um bom desenvolvedor, é preciso entender como o código é escrito e como as aplicações realmente funcionam para conseguir enxergar riscos e vulnerabilidades com profundidade. Por isso, sigo me dedicando também ao desenvolvimento fullstack, buscando evoluir constantemente como dev enquanto construo minha trajetória em segurança.</p>
 </div>
