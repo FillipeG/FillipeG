@@ -65,6 +65,9 @@ Idiomas:
 ## 🚀 Projetos
 
 
+* 👨‍💻 **[road-to-sec](https://github.com/FillipeG/road-to-sec.git)** — Repositório focado na minha jornada em **AppSec** e **SecOps**, contendo anotações, *write-ups* de laboratórios práticos (como os da PortSwigger Web Security Academy) e estudos sobre segurança defensiva e ofensiva.
+
+
 ### 🌊 MoveWave
 
 - Desenvolvimento de site para prevenção de enchentes em BH.
