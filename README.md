@@ -68,7 +68,7 @@ Idiomas:
 * 👨‍💻 **[road-to-sec](https://github.com/FillipeG/road-to-sec.git)** — Repositório focado na minha jornada em **AppSec** e **SecOps**, contendo anotações, *write-ups* de laboratórios práticos e estudos sobre segurança defensiva e ofensiva.
 
 <div style="display: flex; gap: 10px;">
-  <img src="./cyberlogo" alt="CyberLogo" height="250"/>
+  <img src="./cyberlogo.png" alt="CyberLogo" height="250"/>
 </div>
 
 
