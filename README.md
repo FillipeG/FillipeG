@@ -77,7 +77,7 @@ Idiomas:
 - Stack: API REST em Spring Boot (com simulador orientado a eventos) e Frontend em React.
 
 <div style="display: flex; gap: 10px;">
-  <img src="./dronesimulator.png" alt="Simulador de Entregas em Drone" height="250"/>
+  <img src="./dronesimulador.png" alt="Simulador de Entregas em Drone" height="250"/>
 </div>
 
 🔗 [Acessar o repositório do Simulador de Drones](https://github.com/FillipeG/dti-drone-delivery-case.git)
