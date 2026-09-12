@@ -183,53 +183,21 @@ Idiomas:
 
 -----
 
-<div>
-<details>
-<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?raw=true"/> Fillipe's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=9t2vdq1g1062cggkfkmncgawb" alt="Data Card for Spotify">
-</details>
-</div>
+## 🎧 Música
 
 <div align="center">
 <table>
 <tr>
- <td align="center" colspan="3"></td>
-</tr> 
-<tr>
 <td>
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=9t2vdq1g1062cggkfkmncgawb&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+<a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
+<img alt="Spotify" width="400px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=9t2vdq1g1062cggkfkmncgawb&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false"/>
+</a>
 </td>
 <td>
-<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=9t2vdq1g1062cggkfkmncgawb&count=10"/>
-</td>
-<td>
-<!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
-<a href="https://www.last.fm/pt/user/Fillipe2006" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=Fillipe2006&width=400"/></a>
+<a href="https://www.last.fm/pt/user/Fillipe2006" target="_blank">
+<img alt="lastfm" width="400px" height="270px" src="https://lastfm-recently-played.vercel.app/api?user=Fillipe2006&width=400"/>
+</a>
 </td>
 </tr>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
 </table>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
