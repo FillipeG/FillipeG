@@ -71,6 +71,17 @@ Idiomas:
   <img src="./cyberlogo.png" alt="CyberLogo" height="250"/>
 </div>
 
+### 🌐 Portfólio Pessoal
+- Desenvolvimento de portfólio web para centralizar meus principais projetos e demonstrar minhas habilidades técnicas.
+- Funcionalidades: apresentação visual de projetos, habilidades técnicas e canais de contato direto para recrutadores e clientes.
+- Experiência em desenvolvimento web focado em interface atraente, experiência do usuário e posicionamento profissional.
+
+<div style="display: flex; gap: 10px;">
+  <img src="./projetos-portfolio.png" alt="Portfólio Pessoal" height="250"/>
+</div>
+
+🔗 [Acessar o repositório do Portfólio Pessoal](https://github.com/FillipeG/portfolio-pessoal.git)
+
 ### 🚁 Simulador de Entregas em Drone
 - Simulador de operação logística por drones em ambiente urbano, desenvolvido como desafio técnico para a dti digital.
 - Funcionalidades: alocação inteligente de pedidos (respeitando capacidade, autonomia e zonas de exclusão), simulação de voo em tempo acelerado e acompanhamento via dashboard com mapa em tempo real e KPIs.
