@@ -83,7 +83,7 @@ Idiomas:
 🔗 [Acessar o repositório do Portfólio Pessoal](https://github.com/FillipeG/portfolio-pessoal.git)
 
 ### 🚁 Simulador de Entregas em Drone
-- Simulador de operação logística por drones em ambiente urbano, desenvolvido como desafio técnico para a dti digital.
+- Simulador de operação logística por drones em ambiente urbano, desenvolvido como desafio técnico.
 - Funcionalidades: alocação inteligente de pedidos (respeitando capacidade, autonomia e zonas de exclusão), simulação de voo em tempo acelerado e acompanhamento via dashboard com mapa em tempo real e KPIs.
 - Stack: API REST em Spring Boot (com simulador orientado a eventos) e Frontend em React.
 
